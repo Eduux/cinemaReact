@@ -67,11 +67,6 @@ Directory to keep all `helpers` functions to share all over the project
 
 <br>
 
-# Published project
-[here](https://sthima-cinemapp.netlify.app/)
-
-<br>
-
 # Scripts
 
 ### Server from develop
